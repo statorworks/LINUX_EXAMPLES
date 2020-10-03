@@ -7,7 +7,9 @@ One can use an example as a starting point and then grab features from the other
 More examples are on the way as I get more time available.
 
 -Created on Debian Jessie / Raspbian.
+
 -Some projects are meant for the RasPi as opposed to a desktop, this is the case of the I2C and SPI ones for example.
+
 -If there is some system preparation needed to run the application, the instructions are at the top of the header file.
 
 Just copy the project folder as is and open the Geany project. 
