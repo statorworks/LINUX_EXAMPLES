@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Icon=anjuta
+Name=2D_DRAW
+Comment=Test       
+Categories=Applications
+Exec= /root/Desktop/PROJECTS/2D_DRAW/2D_DRAW.x
+StartupNotify=true
+Terminal=false
