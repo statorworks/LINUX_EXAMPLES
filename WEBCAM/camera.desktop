@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Icon=anjuta
+Name=Webcam
+Comment=Test       
+Categories=Applications
+Exec= /root/Desktop/PROJECTS/WEBCAM/WEBCAM.x
+StartupNotify=true
+Terminal=false
