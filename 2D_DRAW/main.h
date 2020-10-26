@@ -1,6 +1,7 @@
 #ifndef MAIN_H
 #define MAIN_H 
 
+//Statorworks 2020
 //Basic 2D Drawing with XLib on a Window
 //
 #include <stdio.h>

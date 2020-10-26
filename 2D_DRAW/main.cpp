@@ -1,6 +1,7 @@
 //
+//Statorworks 2020
 //Basic 2D drawing on X window
-//capturing from UVC webcam with V4l on VLinux Debian
+
 
 
 #include "main.h"
