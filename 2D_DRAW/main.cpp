@@ -1,8 +1,6 @@
 //
-//Webcam loading and displaying
+//Basic 2D drawing on X window
 //capturing from UVC webcam with V4l on VLinux Debian
-//This demo uses two cameras to show that fast simultaneous transfer and display is possible
-//More cameras are possible, depending on USB bandwidth.
 
 
 #include "main.h"
