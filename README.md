@@ -12,6 +12,6 @@ More examples are on the way as I get more time available.
 
 -If there is some system preparation needed to run the application, the instructions are at the top of the header file.
 
-Just copy the project folder as is and open the Geany project. 
+Just copy the project folder to root/Desktop/PROJECTS/<project> as is and open the Geany project. 
 
 Enjoy!
