@@ -3,10 +3,10 @@ Using this template you can quickly implement a fixed size window application fo
 
 ![alt text](https://github.com/statorworks/LINUX_EXAMPLES/blob/main/BASIC_GTK2/Screenshot.png)
 
-Please see Screenshot.png to see how the test window looks.
-
 System preparation:
+
 apt-get install gtk2.0
+
 apt-get install gtk2.0-dev
 
 The default build command and binary is for Debian x86 
