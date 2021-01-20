@@ -1,0 +1,64 @@
+[file_prefs]
+final_new_line=true
+ensure_convert_new_lines=false
+strip_trailing_spaces=false
+replace_tabs=false
+
+[indentation]
+indent_width=4
+indent_type=1
+indent_hard_tab_width=8
+detect_indent=false
+detect_indent_width=false
+indent_mode=2
+
+[project]
+name=BASIC_GTK2
+base_path=/root/Desktop/PROJECTS/BASIC_GTK2
+description=
+file_patterns=
+
+[long line marker]
+long_line_behaviour=1
+long_line_column=72
+
+[files]
+current_page=1
+FILE_NAME_0=406;C;0;EUTF-8;1;1;0;%2Froot%2FDesktop%2FPROJECTS%2FBASIC_GTK2%2Fmain.h;0;4
+FILE_NAME_1=1258;C++;0;EUTF-8;1;1;0;%2Froot%2FDesktop%2FPROJECTS%2FBASIC_GTK2%2Fmain.cpp;0;4
+
+[VTE]
+last_dir=/root
+
+[build-menu]
+NF_00_LB=_Make
+NF_00_CM=make
+NF_00_WD=
+NF_01_LB=Make Custom _Target...
+NF_01_CM=make 
+NF_01_WD=
+NF_02_LB=Make _Object
+NF_02_CM=make %e.o
+NF_02_WD=
+C++FT_01_LB=_Build
+C++FT_01_CM=g++ -Wall -o "%e" *.cpp -L/usr/lib/x86_64-linux-gnu -I/usr/include/gdk-pixbuf-2.0  -I/usr/lib/x86_64-linux-gnu/gtk-2.0/include -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/gtk-2.0 -I/usr/lib/gtk-2.0/include -I/usr/include/atk-1.0 -I/usr/include/cairo -I/usr/include/pango-1.0 -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/freetype2 -I/usr/include/libpng12 -lgtk-x11-2.0 -lgdk-x11-2.0 -lpangocairo-1.0 -latk-1.0 -lcairo -lgdk_pixbuf-2.0 -lgio-2.0 -lpangoft2-1.0 -lpango-1.0 -lgobject-2.0 -lglib-2.0 -lfontconfig -lfreetype
+C++FT_01_WD=
+filetypes=C++;C;
+C++FT_02_LB=
+C++FT_02_CM=
+C++FT_02_WD=
+CFT_01_LB=_Build
+CFT_01_CM=g++ -Wall -o "%e" *.cpp -L/usr/lib/x86_64-linux-gnu -I/usr/include/gdk-pixbuf-2.0/gdk-pixbuf  -I/usr/include/gtk-2.0 -I/usr/lib/gtk-2.0/include -I/usr/include/atk-1.0 -I/usr/include/cairo -I/usr/include/pango-1.0 -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/freetype2 -I/usr/include/libpng12
+CFT_01_WD=
+NF_03_LB=
+NF_03_CM=
+NF_03_WD=
+CFT_00_LB=_Compile
+CFT_00_CM=g++ -Wall -std=c++11 -c "%f" 
+CFT_00_WD=
+C++FT_00_LB=_Compile
+C++FT_00_CM=g++ -Wall -std=c++11 -c "%f" 
+C++FT_00_WD=
+EX_00_LB=_Execute
+EX_00_CM="./main"
+EX_00_WD=
