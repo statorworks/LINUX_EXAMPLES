@@ -4,7 +4,7 @@ This is a setup to have a more futuristic 'neon' theme on the Raspberry Pi.
 
 Please see the other snapshots.
 
-Copy the folder and run the theme_change script as root, you will get the color option:
+Copy the folder, do the setup as described below and run the theme_change script as root, you will get the color option prompt:
 
 1 Orangegutan
 
@@ -18,11 +18,13 @@ Copy the folder and run the theme_change script as root, you will get the color 
 
 6 Random
 
+
 Setup:
 
 The <theme><name> entry on etc/xdg/openbox/lxde-pi-rc.xml must be 'Zerobot'
 
 The Themename and IconThemeName entries on etc/xdg/lxsession/desktop.conf are 'Zerobot'
+
 
 The dark GTK theme is selected on /~/.config/gtk-3.0/settings.ini with:
 
