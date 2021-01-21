@@ -18,6 +18,7 @@ Copy the folder, do the setup as described below and run the theme_change script
 
 6 Random
 
+----------------------
 
 Setup:
 
@@ -25,13 +26,17 @@ The <theme><name> entry on etc/xdg/openbox/lxde-pi-rc.xml must be 'Zerobot'
 
 The Themename and IconThemeName entries on etc/xdg/lxsession/desktop.conf are 'Zerobot'
 
+Set a dark desktop bakground like 0x101010, etc
 
-The dark GTK theme is selected on /~/.config/gtk-3.0/settings.ini with:
+----------------------
+
+The dark GTK window theme is selected on /~/.config/gtk-3.0/settings.ini with:
 
 [settings]
 
 gtk-application-prefer-dark-theme=1
 
+----------------------
 
 This script modifies the following, ensure they have proper permission for 'Pi' user:
 
@@ -41,9 +46,15 @@ This script modifies the following, ensure they have proper permission for 'Pi' 
 
 /usr/share/lxpanel/images
 
+----------------------
 
 On the Zerobot OS image all this will be ready to go.
 
-Todo: Some of the folder icons that still look yellow need to be matche on next release.
+Todo: 
 
-Please see the screenshots below. Enjoy!!
+Some of the folder icons that still look yellow need to be matche on next release.
+
+Also need to make the setup more automated and efficient.
+
+
+ Enjoy!!
