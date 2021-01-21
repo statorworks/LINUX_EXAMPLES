@@ -54,6 +54,8 @@ Todo:
 
 Some of the folder icons that still look yellow need to be matched on next release.
 
+Implement the 'random' option or remove it.
+
 Also need to make the setup more automated and efficient.
 
 
