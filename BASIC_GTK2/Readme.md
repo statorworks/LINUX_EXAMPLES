@@ -1,4 +1,5 @@
 This is a simple windowed demo with the fantastic GTK2 widgets framework, instead of low level libX control.
+
 Using this template you can quickly implement a fixed size window application for a robot console or a machine HMI.
 
 ![alt text](https://github.com/statorworks/LINUX_EXAMPLES/blob/main/BASIC_GTK2/Screenshot.png)
