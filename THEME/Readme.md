@@ -1,6 +1,8 @@
-Hi guys this is a setup to have a futuristic 'neon' theme on the Raspberry Pi.
+This is a setup to have a more futuristic 'neon' theme on the Raspberry Pi.
 
-![alt text](https://github.com/statorworks/LINUX_EXAMPLES/blob/main/THEME/Screenshot%20_red.png)
+![alt text](https://github.com/statorworks/LINUX_EXAMPLES/blob/main/THEME/Screenshot%20_cyan.png)
+
+Please see the other snapshots.
 
 Copy the folder and run the theme_change script as root, you will get the color option:
 
