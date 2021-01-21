@@ -52,7 +52,7 @@ On the Zerobot OS image all this will be ready to go.
 
 Todo: 
 
-Some of the folder icons that still look yellow need to be matche on next release.
+Some of the folder icons that still look yellow need to be matched on next release.
 
 Also need to make the setup more automated and efficient.
 
