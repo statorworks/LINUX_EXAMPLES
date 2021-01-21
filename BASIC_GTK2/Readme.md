@@ -17,7 +17,8 @@ and adjust the Geany project base directory to match your project location.
 
 The build command needs a bunch of library references, but that's been done, look at the project file or main.cpp.
 
-Also just as a comparison, a minimal window in Xlib uses 5 MBytes of RAM, while a minimal Gtk2 window uses 15 MBytes.
+Also just as a comparison, a minimal window in Xlib uses 5 MBytes of RAM, while a minimal Gtk2 window uses about 15 MBytes.
+
 Gtk2 seems a nice compromise between size and performance for many applications.
 
 Enjoy!!
