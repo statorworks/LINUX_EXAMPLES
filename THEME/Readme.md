@@ -16,8 +16,6 @@ Copy the folder, do the setup as described below and run the theme_change script
 
 5 YellowMellow
 
-6 Random
-
 ----------------------
 
 Setup:
@@ -54,7 +52,7 @@ Todo:
 
 Some of the folder icons that still look yellow need to be matched on next release.
 
-Implement the 'random' option or remove it.
+Implement the #6 'random' option or remove it.
 
 Also need to make the setup more automated and efficient.
 
