@@ -1,6 +1,6 @@
 This is a setup to have a more futuristic 'neon' theme on the Raspberry Pi.
 
-![alt text](https://github.com/statorworks/LINUX_EXAMPLES/blob/main/THEME/Screenshot%20_cyan.png)
+![alt text](https://github.com/statorworks/LINUX_EXAMPLES/blob/main/THEME/Screenshot_cyan.png)
 
 Please see the other snapshots.
 
