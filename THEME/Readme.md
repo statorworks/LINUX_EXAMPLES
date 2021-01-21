@@ -1,6 +1,6 @@
 Hi guys this is a setup to have a futuristic 'neon' theme on the Raspberry Pi.
 
-![alt text](https://github.com/statorworks/LINUX_EXAMPLES/blob/main/BASIC_GTK2/Screenshot.png)
+![alt text](https://github.com/statorworks/LINUX_EXAMPLES/blob/main/THEME/Screenshot%20_red.png)
 
 Copy the folder and run the theme_change script as root, you will get the color option:
 
